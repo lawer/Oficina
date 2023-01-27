@@ -1,0 +1,12 @@
+2023-01-26 21:03:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "INFORME" not found (this database is empty); SQL statement:
+select i1_0.id,i1_0.nom_informe,i1_0.oficinista_id from informe i1_0 [42104-214]
+2023-01-26 21:08:31 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "OFICINISTA" not found (this database is empty); SQL statement:
+select o1_0.id,o1_0.nom from oficinista o1_0 [42104-214]
+2023-01-26 21:08:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "INFORME" not found (this database is empty); SQL statement:
+select i1_0.id,i1_0.nom_informe,i1_0.oficinista_id from informe i1_0 [42104-214]
+2023-01-26 21:11:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "INFORME" not found (this database is empty); SQL statement:
+select i1_0.id,i1_0.nom_informe,i1_0.oficinista_id from informe i1_0 [42104-214]
